@@ -2,7 +2,7 @@
 
 A multimedia 2D platformer that turns the many-worlds interpretation into an evolving, immersive experience.
 
-**Play the game:** https://priyal-ptl.github.io/light/
+**Play the game:** priyal-ptl.github.io/Light-Multimedia_2D_platformer_game/
 
 ## Overview
 
